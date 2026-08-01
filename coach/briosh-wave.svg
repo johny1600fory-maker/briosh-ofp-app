@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Бриошь машет рукой</title><desc id="desc">Рисованная тренерка сидит на коврике и приветствует пользователя</desc>
+<defs><filter id="grain"><feTurbulence baseFrequency=".7" numOctaves="2" seed="11" result="n"/><feComponentTransfer in="n"><feFuncA type="table" tableValues="0 .025"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter></defs>
+<rect width="1200" height="900" rx="80" fill="#FFF7E9"/>
+<circle cx="970" cy="170" r="135" fill="#F8DFA7"/><path d="M0 710c214-80 370-63 546-18 184 48 367 42 654-61v269H0z" fill="#DDE8D6"/>
+<path d="M189 733c238-63 538-56 831 12" fill="none" stroke="#4A3035" stroke-width="18" stroke-linecap="round"/>
+<g filter="url(#grain)" stroke="#4A3035" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M407 430c-57 71-63 172-19 272l224 3c54-104 43-210-24-281z" fill="#CB5873"/>
+  <path d="M445 425l10-99h126l11 101c-25 48-111 50-147-2z" fill="#F5B58F"/>
+  <path d="M397 194c14-119 184-145 241-35 28 54 15 147-16 204-33 60-72 91-121 89-48-2-88-38-111-100-21-56-10-114 7-158z" fill="#56363D"/>
+  <path d="M427 194c30-65 125-83 173-18 25 34 22 78 14 124-12 73-52 124-109 124-63 0-104-63-105-142z" fill="#F6BD98"/>
+  <path d="M424 207c57 2 115-35 137-75 13 31 39 54 72 65" fill="none"/>
+  <ellipse cx="470" cy="277" rx="8" ry="11" fill="#4A3035" stroke="none"/><ellipse cx="565" cy="277" rx="8" ry="11" fill="#4A3035" stroke="none"/>
+  <path d="M500 338c25 22 58 21 82-3" fill="none"/><path d="M515 347c15 7 38 6 52-2" stroke="#FFF8EE" stroke-width="7" fill="none"/>
+  <circle cx="447" cy="318" r="6" fill="#D77A6D" stroke="none"/><circle cx="593" cy="316" r="6" fill="#D77A6D" stroke="none"/>
+  <path d="M404 468c-103 39-146 116-165 205" fill="none"/><path d="M591 461c105-27 142-109 141-211" fill="none"/>
+  <path d="M732 250c-3-48 10-96 35-128M733 250c22-41 48-72 77-91M730 251c37-22 73-32 107-30" fill="none"/>
+  <path d="M239 673c-23 8-34 33-22 56 11 22 41 27 61 9" fill="#F6BD98"/>
+  <path d="M735 251c-14 16-40 15-53-3-14-19-9-50 11-60 16-8 33 1 39 17 7-24 35-27 50-12 15 16 10 42-5 55-12 11-28 14-42 3z" fill="#F6BD98"/>
+  <path d="M396 699c-92-2-166 17-215 61M614 701c111 5 200 25 266 66" fill="none"/>
+  <path d="M440 511c39 25 91 26 128 0" fill="none" stroke="#F8DFA7" stroke-width="11"/>
+</g>
+<g fill="none" stroke="#4A3035" stroke-width="12" stroke-linecap="round"><path d="M1004 415c53-42 103-19 108 42-55-15-92-1-109 42-18-41-55-56-111-44 8-60 57-82 112-40z" fill="#A9C8A8"/><path d="M1004 494v216"/><path d="M82 353c29-34 62-43 100-25-37 8-59 29-66 64z" fill="#F4A68C"/></g>
+</svg>

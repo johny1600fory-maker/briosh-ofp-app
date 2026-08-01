@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Бриошь — рисованная тренерка</title><desc id="desc">Тёплый портрет улыбающейся девушки-тренерки с тёмными волосами и коралловой кофтой</desc>
+  <defs>
+    <filter id="paper" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="8" result="n"/><feColorMatrix in="n" type="saturate" values="0" result="g"/><feComponentTransfer in="g"><feFuncA type="table" tableValues="0 .035"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter>
+  </defs>
+  <rect width="800" height="800" rx="180" fill="#F8DFA7"/>
+  <path d="M50 596c104-80 196-92 295-53 116 45 225 5 405-104v361H50z" fill="#F4A68C" opacity=".55"/>
+  <g filter="url(#paper)" stroke="#4A3035" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M253 734c2-130 46-207 147-235 103 27 147 106 149 235" fill="#CB5873"/>
+    <path d="M327 537c10 45 135 47 147-1l-17-99H344z" fill="#F5B58F"/>
+    <path d="M271 290c-1-139 68-224 173-208 92 14 139 91 114 213-10 47-20 96-49 145-30 50-71 78-115 77-47-2-87-34-109-88-18-45-14-89-14-139z" fill="#56363D"/>
+    <path d="M307 269c1-94 52-153 123-153 78 0 125 57 122 151l-13 118c-11 82-63 139-135 139-73 0-126-61-132-143z" fill="#F6BD98"/>
+    <path d="M306 272c42-4 105-43 129-91 16 35 56 75 112 86" fill="none"/>
+    <path d="M291 303c-35-18-58 6-52 48 6 40 30 60 58 48M547 299c35-18 58 7 51 48-7 39-31 59-58 46" fill="#F6BD98"/>
+    <path d="M338 344c14-11 31-11 45 0M444 344c14-11 31-11 45 0" fill="none"/>
+    <ellipse cx="361" cy="359" rx="8" ry="11" fill="#4A3035" stroke="none"/><ellipse cx="468" cy="359" rx="8" ry="11" fill="#4A3035" stroke="none"/>
+    <path d="M405 366c-4 21-8 33 9 37" fill="none" stroke-width="10"/>
+    <path d="M367 430c28 28 72 29 101-1" fill="none"/>
+    <path d="M382 441c18 9 51 9 69-1" fill="none" stroke="#FFF8EE" stroke-width="8"/>
+    <circle cx="330" cy="400" r="6" fill="#D77A6D" stroke="none"/><circle cx="349" cy="410" r="5" fill="#D77A6D" stroke="none"/><circle cx="494" cy="400" r="6" fill="#D77A6D" stroke="none"/><circle cx="475" cy="410" r="5" fill="#D77A6D" stroke="none"/>
+    <path d="M286 194c-62 23-74 92-49 143M542 193c55 29 65 88 43 145" fill="none"/>
+    <path d="M511 148c73-16 109 22 101 70-5 31-28 51-64 53" fill="#56363D"/>
+    <path d="M349 553c29 28 82 28 111-1" fill="none" stroke="#F9DFAA" stroke-width="12"/>
+    <path d="M285 646c-48 10-90 44-112 87M516 645c48 10 90 44 112 87" fill="none"/>
+  </g>
+  <g fill="#4A3035"><path d="M100 132c27-35 62-43 92-18-31 3-50 19-60 48z"/><path d="M648 100c36 4 59 25 63 61-23-23-47-27-74-13z"/></g>
+  <g fill="#FFF8EE" stroke="#4A3035" stroke-width="9" stroke-linecap="round"><path d="M121 229c25-19 48-17 67 7-26-6-48 3-63 25z"/><path d="M654 254c19-24 42-29 68-13-26 2-44 16-52 41z"/></g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title"><title id="title">Бриошь празднует завершённую тренировку</title>
+<rect width="800" height="800" rx="160" fill="#DDE8D6"/><path d="M0 642c185-76 310-49 423-8 129 47 230 43 377-29v195H0z" fill="#F8DFA7"/>
+<g stroke="#4A3035" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M257 714c1-125 45-210 143-232 101 21 148 106 150 232z" fill="#CB5873"/>
+<path d="M336 495l10-83h112l10 83c-30 45-98 45-132 0z" fill="#F5B58F"/>
+<path d="M278 208c29-108 174-141 249-60 52 56 42 156 5 231-31 63-75 103-127 104-56 1-99-44-125-112-23-62-19-111-2-163z" fill="#56363D"/>
+<path d="M309 207c30-69 125-86 176-26 28 33 32 84 21 129-17 75-52 127-105 128-59 2-100-57-107-135z" fill="#F6BD98"/>
+<path d="M308 220c62-1 111-35 138-77 17 32 42 57 79 73" fill="none"/>
+<path d="M342 290c11 11 24 11 36 0M430 290c11 11 24 11 36 0" fill="none"/>
+<path d="M349 362c30 33 77 34 108 0" fill="#FFF8EE"/><circle cx="326" cy="335" r="6" fill="#D77A6D" stroke="none"/><circle cx="484" cy="335" r="6" fill="#D77A6D" stroke="none"/>
+<path d="M279 521c-93-28-147-95-172-174M522 521c94-27 148-94 174-172" fill="none"/>
+<path d="M110 350c-21-15-24-47-7-65 15-16 40-13 55 5 5-28 31-39 52-27 24 13 27 47 8 66-31 31-73 29-108 21z" fill="#F6BD98"/>
+<path d="M694 351c21-15 24-47 7-65-15-16-40-13-55 5-5-28-31-39-52-27-24 13-27 47-8 66 31 31 73 29 108 21z" fill="#F6BD98"/>
+<path d="M347 524c31 20 77 20 108 0" fill="none" stroke="#F8DFA7" stroke-width="11"/>
+</g>
+<g fill="#F4A68C"><path d="M95 111l14 39 41 2-33 24 11 40-33-24-34 24 12-40-33-24 41-2z"/><path d="M670 99l10 28 30 1-24 17 9 29-25-17-24 17 9-29-24-17 30-1z"/></g>
+<g fill="none" stroke="#4A3035" stroke-width="10" stroke-linecap="round"><path d="M190 147l-12-49M225 167l37-37M603 151l12-49M579 172l-38-35"/></g>
+</svg>
